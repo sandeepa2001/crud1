@@ -18,6 +18,9 @@ namespace crud1.Models
         public string state { get; set; }
         public string zipcode { get; set; }
         public string city_url { get; set;}
+        public string country_url { get; set;}
+        public string phone_url { get; set;}
+        public string state_url { get; set;}
 
 
     }
